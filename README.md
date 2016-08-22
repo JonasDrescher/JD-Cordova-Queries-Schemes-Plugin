@@ -1,0 +1,1 @@
+# JDCordova-Queries-Schemes-Plugin

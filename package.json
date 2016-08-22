@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-queries-schemes",
+  "version": "0.1.1",
+  "author": "Jonas Drescher",
+  "description": "Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes be declared and submitted to Apple (via Info.plist file).",
+  "cordova": {
+    "id": "jdcordova-queries-schemes-plugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasDrescher/JDCordova-Queries-Schemes-Plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "ios",
+    "app",
+    "queries",
+    "url",
+    "schemes",
+    "lsapplicationqueriesschemes",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonasDrescher/JDCordova-Queries-Schemes-Plugin/issues"
+  },
+  "homepage": "https://github.com/JonasDrescher/JDCordova-Queries-Schemes-Plugin#readme"
+}

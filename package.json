@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-queries-schemes",
+  "name": "jdcordova-queries-schemes-plugin",
   "version": "0.1.1",
   "author": "Jonas Drescher",
   "description": "Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes be declared and submitted to Apple (via Info.plist file).",

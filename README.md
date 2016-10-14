@@ -1,4 +1,4 @@
-# JDCordova-Queries-Schemes-Plugin
+# JD-Cordova-Queries-Schemes-Plugin
 
 Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes be declared and submitted to Apple (via Info.plist file).
 
@@ -9,7 +9,7 @@ In short, this plugin just whitelists the Url Scheme of the most popular apps on
 #### Latest version from GitHub
 
 ```
-cordova plugin add https://github.com/JonasDrescher/JDCordova-Queries-Schemes-Plugin.git
+cordova plugin add https://github.com/JonasDrescher/JD-Cordova-Queries-Schemes-Plugin.git
 ```
 
 ## Usage
